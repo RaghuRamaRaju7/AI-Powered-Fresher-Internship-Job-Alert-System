@@ -86,7 +86,7 @@ Telegram Alerts     Telegram Alerts
 ## 🔹 Telegram Job Alerts
 
 ```md
-![Telegram Alerts](images/telegram-alerts.png)
+![Telegram Alerts](images/telegram.png)
 ```
 
 ---
@@ -94,7 +94,7 @@ Telegram Alerts     Telegram Alerts
 ## 🔹 Google Sheets Storage
 
 ```md
-![Google Sheets Output](images/google-sheets.png)
+![Google Sheets Output](images/sheet.png)
 ```
 
 ---
