@@ -77,8 +77,6 @@ Telegram Alerts     Telegram Alerts
 
 ## 🔹 Main Workflow
 
-Add your workflow screenshot here:
-
 ```md
 ![Workflow Screenshot](images/workflow.png)
 ```
