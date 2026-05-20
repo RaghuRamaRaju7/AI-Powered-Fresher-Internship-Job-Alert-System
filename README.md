@@ -87,59 +87,6 @@ Telegram Alerts     Telegram Alerts
 
 ![Google Sheets Output](images/sheet.png)
 
-
-# ⚙️ Setup Instructions
-
-## 1️⃣ Clone Repository
-
-```bash
-git clone https://github.com/RaghuRamaRaju7/AI-Powered-Fresher-Internship-Job-Alert-System.git
-```
-
----
-
-## 2️⃣ Import Workflow into n8n
-
-- Open n8n
-- Click **Import Workflow**
-- Select the exported JSON workflow file
-
----
-
-## 3️⃣ Configure Credentials
-
-Add credentials for:
-
-- JSearch API
-- Google Sheets
-- Telegram Bot API
-
----
-
-## 4️⃣ Configure Telegram Bot
-
-- Create bot using `@BotFather`
-- Copy bot token
-- Add chat ID in Telegram node
-
----
-
-## 5️⃣ Configure Google Sheets
-
-Create sheets for:
-
-- All Jobs
-- Internship Jobs
-- Fresher Jobs
-
----
-
-## 6️⃣ Activate Workflow
-
-- Enable Schedule Trigger
-- Activate workflow
-- Workflow automatically runs at configured intervals
-
 ---
 
 # 🧠 Key Concepts Used
