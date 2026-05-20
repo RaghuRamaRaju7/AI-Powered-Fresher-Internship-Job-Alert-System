@@ -77,27 +77,16 @@ Telegram Alerts     Telegram Alerts
 
 ## 🔹 Main Workflow
 
-```md
 ![Workflow Screenshot](images/workflow.png)
-```
-
----
 
 ## 🔹 Telegram Job Alerts
 
-```md
 ![Telegram Alerts](images/telegram.png)
-```
-
----
 
 ## 🔹 Google Sheets Storage
 
-```md
 ![Google Sheets Output](images/sheet.png)
-```
 
----
 
 # ⚙️ Setup Instructions
 
