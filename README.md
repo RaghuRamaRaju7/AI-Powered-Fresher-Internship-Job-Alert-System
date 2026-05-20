@@ -68,7 +68,6 @@ Telegram Alerts     Telegram Alerts
 | JSearch API | Job data fetching |
 | Google Sheets | Structured data storage |
 | Telegram Bot API | Real-time notifications |
-| Cloudflare Tunnel | Public workflow access |
 | HTTP Request Nodes | API communication |
 
 ---
